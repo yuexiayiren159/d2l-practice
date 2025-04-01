@@ -136,3 +136,7 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# 自定义忽略规则（补充在文件末尾）
+cv/logs/
+cv/model/
