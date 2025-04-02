@@ -143,6 +143,8 @@ dmypy.json
 cython_debug/
 
 # 自定义忽略规则（补充在文件末尾）
-cv/logs/
-cv/model/
+d2l-my/logs
+d2l-my/model
+.VSCodeCounter
+
 >>>>>>> 7b3a8d8b8caa88e8d8879b55723ffe39232c12fe
