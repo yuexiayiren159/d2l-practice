@@ -11,9 +11,5 @@
 print("!23")
 
 
-print("!23")
-
-print("!23")
-
-print("!23")
+print("直接从github上更改文件")
 
