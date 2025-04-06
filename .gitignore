@@ -147,6 +147,6 @@ d2l-my/logs
 d2l-my/model
 .VSCodeCounter
 data/FashionMNIST/*
-!data/FashionMNIST
+!data/FashionMNIST/
 
 >>>>>>> 7b3a8d8b8caa88e8d8879b55723ffe39232c12fe
