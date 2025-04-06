@@ -143,8 +143,10 @@ dmypy.json
 cython_debug/
 
 # 自定义忽略规则（补充在文件末尾）
-d2l-my/logs
-d2l-my/model
+d2l-my/logs/*
+d2l-my/model/*
+!d2l-my/logs/
+!d2l-my/model/
 .VSCodeCounter
 data/FashionMNIST/*
 !data/FashionMNIST/
